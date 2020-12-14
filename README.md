@@ -4,7 +4,7 @@
 
 Go to different route and observe changes.
 
-Project is live at [Grafana](https://....netlify.app/)
+Project is live at [Grafana](https://grafana-notfound.netlify.app/)
 
 ## Setup
 
